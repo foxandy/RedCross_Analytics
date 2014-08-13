@@ -1,7 +1,7 @@
 RedCross_Analytics
 ===================
 
-Independent research with the American Red Cross, Greater Chicago Region on volunteer engagement and participation within disaster response.
+(R)(Python)(d3.js) Independent research with the American Red Cross, Greater Chicago Region on volunteer engagement and participation within disaster response.
 
 Includes the following concepts:
 - Predictive analytics: data preparation and analytics for predicting volunteer response to incidents
